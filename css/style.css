@@ -1,0 +1,29 @@
+.first-section{
+    background-color: #FFF9F4;
+}
+.nike-color{
+    color: #FA804C;
+}
+.logo-width{
+    width: 90%;
+}
+.img-sizing{
+    width: 311px;
+    height: 311px;
+}
+@media only screen and (max-width:576px){
+    .img-width{
+        width: 85% !important;
+    }
+    .logo-width{
+        width: 100% !important;
+    }
+}
+@media only screen and (max-width:768px){
+    .last-img{
+        width: 100% !important;
+    }
+    .last-img-size{
+        width: 100% !important;
+    }
+}
